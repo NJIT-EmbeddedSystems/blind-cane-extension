@@ -2,4 +2,4 @@
 ## Cane extension for the blind
 
 
-# PUT PURPOSE AND FUNCTION HERE
+# ****PUT PURPOSE AND FUNCTION HERE
